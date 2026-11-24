@@ -1,50 +1,34 @@
-Hi, I'm JDP 👋
+# Hi, I'm Jade 👋
 
-Frontend-Focused Developer | AI-Assisted Application Development
+**Digital product designer and builder** · **10+ years in construction coordination**
 
-I build practical web applications with a focus on usability, thoughtful UI, and solving real-world problems. I use AI-assisted development to accelerate implementation while continuously improving my understanding of the code behind the products I build.
+I enjoy turning practical problems into clear workflows and usable digital experiences. My background is in coordinating construction work across people, schedules, and changing requirements. I bring that same attention to planning, communication, and follow-through to the digital work I do now.
 
-- 🔭 Currently building: Practical web applications and digital products
-- 🧩 Featured projects: Assured Capture and Deaf Contact Record
-- 🌱 Currently learning: Strengthening my frontend engineering and software development skills
-- 🎯 Career goal: Grow as a frontend developer and build reliable, user-focused applications
-- 🌐 Portfolio: "View my portfolio" (https://jpdev-portfolio-lemon.vercel.app/)
+My development process is AI-assisted. I shape the product direction and user experience, guide implementation with modern tools, then review, test, and refine the result. I don't code independently, and I'm continuing to strengthen my understanding of the code and systems behind the work.
 
-🛠️ Technologies & Tools
+## What I bring to the work
 
-Frontend: HTML, CSS, JavaScript, React, Next.js, TypeScript
+- **Product and workflow thinking:** Break an idea into useful features, user flows, and clear next steps.
+- **Interface direction:** Plan mobile-first layouts, navigation, and information that feels easy to use.
+- **Coordination:** Keep responsibilities, updates, and open details organized as work changes.
+- **Review and iteration:** Test behavior, investigate problems, and improve the result through feedback.
+- **Research and creative work:** Organize sources and written material; develop concepts, visual direction, and edits.
 
-Backend & Data: Firebase
+## Selected work
 
-Development Tools: Git, GitHub, AI-assisted development tools
+- **Assured Capture** — A field-inspection documentation **demo** exploring how findings and photo evidence can be captured and organized.
+- **Deaf Contact Record** — A contact and visit-record **prototype** exploring profiles, territories, and follow-ups.
 
-🚀 Featured Projects
+The [portfolio](https://jade-polo-portfolio.vercel.app/) shows these and other projects, including what each one currently does and the part I played in making it.
 
-Assured Capture
+## Tools and learning
 
-A field-inspection documentation platform designed to support the capture and organization of inspection information.
+I have practical, project-based experience with HTML, CSS, JavaScript, React, TypeScript, browser storage, Firebase/Firestore, Git, and GitHub. I use VS Code, Codex, Claude, and Google AI Studio as part of my workflow. Using a tool is not the same as claiming expert-level mastery of it.
 
-Deaf Contact Record
+I'm developing stronger independent coding skills and a deeper understanding of frontend architecture, testing, and application security. I learn by building, reviewing what happens in use, and improving the next version.
 
-A cross-platform contact and visit management application designed to organize contact profiles, visit records, territories, and follow-ups in one place.
+## Connect
 
-Explore my portfolio to learn more about these projects and see the applications in action.
+I'm open to remote project support, junior digital and frontend opportunities, and thoughtful collaborations.
 
-📌 What I'm Focused On
-
-- Building practical applications that solve real problems
-- Improving code quality, maintainability, and frontend architecture
-- Developing accessible, responsive, mobile-first interfaces
-- Learning through building, testing, debugging, and iteration
-
-🤝 Let's Connect
-
-I'm interested in frontend development opportunities, collaborative projects, and opportunities to keep growing as a developer.
-
-🌐 "Portfolio Website" (https://jpdev-portfolio-lemon.vercel.app/)
-
-💻 "GitHub Repositories" (https://github.com/jdpappdev?tab=repositories)
-
----
-
-Building, learning, and improving one project at a time.
+[Portfolio](https://jade-polo-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/jade-polo-a46833411/) · [Repositories](https://github.com/jdpappdev?tab=repositories)
