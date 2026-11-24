@@ -28,16 +28,9 @@ Both projects are pinned below. Their READMEs explain how to use them, what they
 
 My development process is AI-assisted. I direct the product and user experience, guide implementation with modern tools, then review, test, and refine the result. I don't code independently, and I'm continuing to deepen my understanding of the code and systems behind the work.
 
-## More work
-
-- **[Assured Capture](https://jade-polo-portfolio.netlify.app/developer-projects/)** — A field-inspection documentation demo exploring how findings and photo evidence can be captured and organized.
-- **[Deaf Contact Record](https://jade-polo-portfolio.netlify.app/developer-projects/)** — A contact and visit-record prototype exploring profiles, territories, and follow-ups.
-
-The [portfolio](https://jade-polo-portfolio.netlify.app/) brings together my coordination, developer, creative, and research work, with context on each project and my role in making it.
-
 ## Tools and learning
 
-I have practical, project-based experience with HTML, CSS, JavaScript, React, TypeScript, browser storage, Firebase/Firestore, Git, and GitHub. I use VS Code, Codex, Claude, and Google AI Studio in my workflow. I'm developing stronger independent coding skills and a deeper understanding of frontend architecture, testing, and application security.
+I have practical, project-based experience with HTML, CSS, JavaScript, React, TypeScript, browser storage, Firebase/Firestore, Git, and GitHub. I use VS Code, Codex, Claude, Antigravity and Google AI Studio in my workflow. I'm developing stronger independent coding skills and a deeper understanding of frontend architecture, testing, and application security.
 
 ## Connect
 
