@@ -19,7 +19,7 @@ My development process is AI-assisted. I shape the product direction and user ex
 - **Assured Capture** — A field-inspection documentation **demo** exploring how findings and photo evidence can be captured and organized.
 - **Deaf Contact Record** — A contact and visit-record **prototype** exploring profiles, territories, and follow-ups.
 
-The [portfolio](https://jade-polo-portfolio.vercel.app/) shows these and other projects, including what each one currently does and the part I played in making it.
+The [portfolio](https://jpdev-portfolio-lemon.vercel.app/) shows these and other projects, including what each one currently does and the part I played in making it.
 
 ## Tools and learning
 
@@ -31,4 +31,4 @@ I'm developing stronger independent coding skills and a deeper understanding of 
 
 I'm open to remote project support, junior digital and frontend opportunities, and thoughtful collaborations.
 
-[Portfolio](https://jade-polo-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/jade-polo-a46833411/) · [Repositories](https://github.com/jdpappdev?tab=repositories)
+[Portfolio](https://jpdev-portfolio-lemon.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/jade-polo-a46833411/) · [Repositories](https://github.com/jdpappdev?tab=repositories)
