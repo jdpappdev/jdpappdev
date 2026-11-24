@@ -1,4 +1,4 @@
-# Hi, I'm Jade 👋
+# Hi, I'm JDP 👋
 
 **Digital product designer and builder** · **10+ years in construction coordination**
 
