@@ -4,7 +4,7 @@
 
 I turn practical problems into clear workflows and usable digital experiences. My background is coordinating people, schedules, and changing requirements in construction. Today I bring that planning and follow-through to web projects, research workflows, and interface design.
 
-[Explore my portfolio](https://jade-polo-portfolio.netlify.app/) · [Get in touch](https://jade-polo-portfolio.netlify.app/contact/)
+[Explore my portfolio](https://jdpappdev.github.io/) · [Get in touch](https://jdpappdev.github.io/contact/)
 
 ## Featured open-source projects
 
@@ -36,4 +36,4 @@ I have practical, project-based experience with HTML, CSS, JavaScript, React, Ty
 
 I'm open to remote project support, junior digital and frontend opportunities, and thoughtful collaborations.
 
-[Portfolio](https://jade-polo-portfolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/jade-polo-a46833411/) · [Repositories](https://github.com/jdpappdev?tab=repositories)
+[Portfolio](https://jdpappdev.github.io/) · [LinkedIn](https://www.linkedin.com/in/jade-polo-a46833411/) · [Repositories](https://github.com/jdpappdev?tab=repositories)
