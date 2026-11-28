@@ -1,39 +1,37 @@
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-banner-still.png">
+  <img src="assets/profile-banner.gif" alt="Chibi portrait of Jade Polo next to Studio Forge, Source Weave, and Video Digest." width="1152" height="360">
+</picture>
+
 # Hi, I'm Jade Polo
 
-**Digital product designer and builder** · **10+ years in construction coordination**
+**Web projects, frontend design, and tools for AI-assisted development**
 
-I turn practical problems into clear workflows and usable digital experiences. My background is coordinating people, schedules, and changing requirements in construction. Today I bring that planning and follow-through to web projects, research workflows, and interface design.
+I build practical web prototypes under Blueprint. After 10+ years in construction coordination, I still start projects the same way. I learn how people work, clarify what they need, and check how well the result fits. I use AI to help implement what I design, then review the behavior and refine it through testing.
 
-[Explore my portfolio](https://jdpappdev.github.io/) · [Get in touch](https://jdpappdev.github.io/contact/)
+[Explore my portfolio](https://jdpappdev.github.io/developer-projects/) · [LinkedIn](https://www.linkedin.com/in/jade-polo-a46833411/) · [Get in touch](https://jdpappdev.github.io/contact/)
 
-## Featured open-source projects
+## Developer tools I build in the open
 
-### [Source-Weave](https://github.com/jdpappdev/Source-Weave)
+I made these three tools to support my own work, from checking a source or studying a tutorial to designing and reviewing an interface.
 
-A portable research workflow skill for AI agents. It helps turn web pages, repositories, videos, and supplied files into traceable conclusions: choose strong sources, separate evidence from inference, preserve uncertainty, and carry findings into a useful answer or implementation handoff. The skill provides a method; it uses the research tools available in the agent's environment.
+### [Studio Forge](https://github.com/jdpappdev/Studio-Forge) · Design and build better interfaces
 
-### [Studio Forge](https://github.com/jdpappdev/Studio-Forge)
+Four reusable skills for frontend design, React UI, motion, and interface review. The optional read-only MCP server lets coding agents look up design guidance, from responsive layouts to accessible interactions. [See the workflow and setup](https://github.com/jdpappdev/Studio-Forge#quick-start).
 
-A design toolkit for coding agents with four focused skills covering frontend design, motion, React UI engineering, and interface review. It includes a searchable guidance catalog and an optional read-only MCP server for finding that guidance and retrieving short workflows.
+### [Source Weave](https://github.com/jdpappdev/Source-Weave) · Make research easy to verify
 
-Both projects are pinned below. Their READMEs explain how to use them, what they include, and their current boundaries.
+A research skill for comparing sources and repositories, checking claims, and turning findings into a recommendation you can trace back to the evidence. [Read a worked research example](https://github.com/jdpappdev/Source-Weave/blob/main/docs/reviews/2026-11-27-agent-skill-catalog-review.md).
 
-## How I work
+### [Video Digest](https://github.com/jdpappdev/Video-Digest) · Turn tutorials into useful notes
 
-- **Product and workflow thinking:** Shape an idea into useful features, user flows, and clear next steps.
-- **Interface direction:** Plan mobile-first layouts and information that feels easy to use.
-- **Coordination:** Keep responsibilities, updates, and open details organized as work changes.
-- **Review and iteration:** Test behavior, investigate problems, and refine the result through feedback.
-- **Research and creative work:** Organize sources and written material; develop concepts and visual direction.
+A toolkit for YouTube and local recordings that collects timestamped captions and optional frame samples. Its Codex skills help create study notes and apply a reviewed tutorial to a project. [See a real Flexbox digest](https://github.com/jdpappdev/Video-Digest/blob/main/examples/chrome-devtools-flexbox.md).
 
-My development process is AI-assisted. I direct the product and user experience, guide implementation with modern tools, then review, test, and refine the result. I don't code independently, and I'm continuing to deepen my understanding of the code and systems behind the work.
+## Selected web projects
 
-## Tools and learning
+- **Assured Capture Demo** is a field inspection prototype for recording issues, organizing photo evidence, and exporting reports. The public demo uses fictional inspections. [Try the demo](https://assured-capture-demo.vercel.app/) · [View the repository](https://github.com/jdpappdev/assured-capture-demo)
+- **Plotline** is a browser-based workspace prototype for tracking projects, tasks, schedules, and team capacity. [Try the demo](https://plotline-phi.vercel.app/) · [View the repository](https://github.com/jdpappdev/Plotline)
 
-I have practical, project-based experience with HTML, CSS, JavaScript, React, TypeScript, browser storage, Firebase/Firestore, Git, and GitHub. I use VS Code, Codex, Claude, Antigravity and Google AI Studio in my workflow. I'm developing stronger independent coding skills and a deeper understanding of frontend architecture, testing, and application security.
+My projects use HTML, CSS, JavaScript, React, TypeScript, and GitHub. I'm continuing to build my skills in frontend architecture, debugging, and testing.
 
-## Connect
-
-I'm open to remote project support, junior digital and frontend opportunities, and thoughtful collaborations.
-
-[Portfolio](https://jdpappdev.github.io/) · [LinkedIn](https://www.linkedin.com/in/jade-polo-a46833411/) · [Repositories](https://github.com/jdpappdev?tab=repositories)
+**Open to junior frontend opportunities, remote project support, and collaborations.**
