@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-banner-still.png">
-  <img src="assets/profile-banner.gif" alt="Chibi portrait of Jade Polo next to Studio Forge, Source Weave, and Video Digest." width="1152" height="360">
+  <img src="assets/profile-banner.gif" alt="Chibi portrait of Jade Polo next to Studio Forge, Source Weave, and Video Digest.">
 </picture>
 
 # Hi, I'm Jade Polo
